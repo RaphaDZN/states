@@ -1,9 +1,9 @@
 [
 	{
-		"key": "VISA",
-		"latitude": -19.46490711947835,
-		"longitude": -44.245168010976805,
-		"name": "Vigilância Sanitária"
+	   "key": "VISA",
+	   "latitude": -19.46490711947835,
+	   "longitude": -44.245168010976805,
+	   "name": "Vigilância Sanitária"
 
 	}
 ]
