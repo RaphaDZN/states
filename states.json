@@ -7,8 +7,28 @@
 	},
 	{
 	   "key": "PREF",
-	   "latitude": -19.46490711947835,
-	   "longitude": -44.245168010976805,
+	   "latitude": -19.465024657582788,
+	   "longitude": -44.244975805905234,
 	   "name": "Prefeitura"
 	},
+	{
+	   "key": "SMS",
+	   "latitude": -19.461579359803526,
+	   "longitude": -44.24767706708179,
+	   "name": "Secretaria Municipal de Saúde"
+	},
+	{
+	   "key": "UPA",
+	   "latitude": -19.46939732105714,
+	   "longitude": -44.21258418773849,
+	   "name": "UPA"
+	},
+	{
+	   "key": "SMS",
+	   "latitude": -19.46939732105714,
+	   "longitude": -44.21258418773849,
+	   "name": "Secretaria Municipal de Saúde"
+	}
 ]
+
+ 
