@@ -22,5 +22,24 @@
 	   "latitude": -19.46939732105714,
 	   "longitude": -44.21258418773849,
 	   "name": "UPA"
+	},
+	{
+	   "key": "CAPS1",
+	   "latitude": -19.4629507292986,
+	   "longitude": -44.249042933822864,
+	   "name": "CAPS 1 - INFANTIL"
+	},
+	{
+	   "key": "CSA",
+	   "latitude": -19.47761613772154,
+	   "longitude": -44.263242651518375,
+	   "name": "CS Santo Antônio"
+	},
+	{
+	   "key": "CSM",
+	   "latitude": -19.437065061044155,
+	   "longitude": -44.24698656953225,
+	   "name": "CS Manoa"
 	}
+
 ]
