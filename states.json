@@ -42,10 +42,52 @@
 	   "name": "CS Manoa"
 	},
 	{
+	   "key": "CSM",
+	   "latitude": -19.437065061044155,
+	   "longitude": -44.24698656953225,
+	   "name": "CS Manoa"
+	},
+	{
 	   "key": "SME",
 	   "latitude": -19.459860206662473, 
 	   "longitude": -44.24311628544377,
 	   "name": "Secretaria Municipal de Educação"
-	}	
+	},
+	{
+	   "key": "LPL",
+	   "latitude": -19.465750238095776,
+	   "longitude": -44.23483561622617,
+	   "name": "Laboratório Pedro Lanza"
+	},
+	{
+	   "key": "SAMU",
+	   "latitude": -19.465534027187708, 
+	   "longitude": -44.235269461878495,
+	   "name": "SAMU"
+	},
+	{
+	   "key": "SELT",
+	   "latitude": -19.465721899082112, 
+	   "longitude": -44.24866774832578,
+	   "name": "SELTRANS"
+	},
+	{
+	   "key": "SMAS",
+	   "latitude": -44.249033182334365, 
+	   "longitude": -44.24921815740445,
+	   "name": "Secretaria de Assistência Social"
+	},
+	{
+	   "key": "GCM",
+	   "latitude": -19.457039155476867,  
+	   "longitude": -44.24913843459594,
+	   "name": "Guarda Cívil Municipal"
+	},
+	{
+	   "key": "GCM",
+	   "latitude": -19.457039155476867,  
+	   "longitude": -44.24913843459594,
+	   "name": "Guarda Cívil Municipal"
+	}	  
 ]
-
+     
